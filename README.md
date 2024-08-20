@@ -1,16 +1,3 @@
-# takvim_ajanda
+"Takvim Ajanda" Flutter kullanılarak geliştirilmiş bir mobil uygulamadır. Bu uygulama, kullanıcıların bir takvime etkinlik ekleyerek günlerini planlayabilecekleri bir elektronik gündem oluşturmalarına olanak tanır. Kullanıcılar belirli tarihleri ​​seçebilir, başlangıç ​​ve bitiş zamanlarıyla birlikte etkinlik ekleyebilir ve günlük programlarını verimli bir şekilde yönetebilir. Uygulama, olayların zamana göre sıralanmasını sağlar ve zamanlama çakışması olması durumunda uyarı verir. Kullanıcılar ayrıca olayları seçip silebilir ve tüm veriler kalıcı olması için cihazda yerel olarak depolanır. Uygulama, kullanıcı dostu bir arayüzle tasarlanmıştır ve SharedPreferences'ı kullanarak etkinlikler arasında gezinmek ve etkinlik verilerini kaydetmek gibi işlevler içerir.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![takvim ajanda](https://github.com/user-attachments/assets/ee9289fe-5383-4d64-a8f7-267901372c66)
